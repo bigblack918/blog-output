@@ -4,105 +4,105 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://leo.nctu.me/</loc>
-<lastmod>2018-06-12T17:32:38-00:00</lastmod>
+<loc>http://0.0.0.0:8000/</loc>
+<lastmod>2018-06-13T17:56:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/archives.html</loc>
-<lastmod>2018-06-12T17:32:38-00:00</lastmod>
+<loc>http://0.0.0.0:8000/archives.html</loc>
+<lastmod>2018-06-13T17:56:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/tags.html</loc>
-<lastmod>2018-06-12T17:32:38-00:00</lastmod>
+<loc>http://0.0.0.0:8000/tags.html</loc>
+<lastmod>2018-06-13T17:56:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/categories.html</loc>
-<lastmod>2018-06-12T17:32:38-00:00</lastmod>
+<loc>http://0.0.0.0:8000/categories.html</loc>
+<lastmod>2018-06-13T17:56:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/pages/about.html</loc>
+<loc>http://0.0.0.0:8000/pages/about.html</loc>
 <lastmod>2018-06-12T08:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/blog/20180611/test2/</loc>
+<loc>http://0.0.0.0:8000/blog/20180611/test2/</loc>
 <lastmod>2018-06-11T17:55:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/blog/20180611/test3/</loc>
+<loc>http://0.0.0.0:8000/blog/20180611/test3/</loc>
 <lastmod>2018-06-11T17:55:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/blog/20180611/test/</loc>
+<loc>http://0.0.0.0:8000/blog/20180611/test/</loc>
 <lastmod>2018-06-11T13:55:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/category/main.html</loc>
+<loc>http://0.0.0.0:8000/category/main.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/category/test.html</loc>
+<loc>http://0.0.0.0:8000/category/test.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/tag/welcome.html</loc>
+<loc>http://0.0.0.0:8000/tag/welcome.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/tag/python.html</loc>
+<loc>http://0.0.0.0:8000/tag/python.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/tag/welcome3.html</loc>
+<loc>http://0.0.0.0:8000/tag/welcome3.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/tag/python3.html</loc>
+<loc>http://0.0.0.0:8000/tag/python3.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://leo.nctu.me/author/leo-tsai.html</loc>
+<loc>http://0.0.0.0:8000/author/leo-tsai.html</loc>
 <lastmod>2018-06-11T17:55:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
